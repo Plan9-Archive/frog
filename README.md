@@ -1,3 +1,5 @@
+this is a plan9 program.
+
 a frog can jump up to one foot in any direction.  what is the probability after N jumps that the frog is within one foot of its starting point?
 
 so here are these three naive C programs:
