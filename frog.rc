@@ -1,0 +1,8 @@
+#!/bin/rc
+
+i=1
+while(){
+	echo -n  $i'	'
+	8.frog $i | 8.acc | 8.change
+	i=`{echo $i + 1 | hoc}
+}
